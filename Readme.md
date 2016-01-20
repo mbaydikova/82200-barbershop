@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Марина Байдикова](https://htmlacademy.ru/profile/id82200).
+* Студент: [Марина Байдикова](https://htmlacademy.ru/profile/id82200). 
 
 ---
 
